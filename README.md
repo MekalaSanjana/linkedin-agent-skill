@@ -169,8 +169,8 @@ templates/voice.md               your voice profile. Fill this in first.
 
 ## Credit
 
-Made by Mekala Sanjana, [opusSanjana.ai](https://opusSanjana.ai).
-The full write-up is at [opusSanjana.ai/r/linkedin-agent](https://opusSanjana.ai/r/linkedin-agent).
+Made by Mekala Sanjana, [opusSanjana.ai](https://github.com/MekalaSanjana/linkedin-agent-skill).
+The full write-up is at [opusSanjana.ai/r/linkedin-agent](https://github.com/MekalaSanjana/linkedin-agent-skill).
 
 ## License
 
